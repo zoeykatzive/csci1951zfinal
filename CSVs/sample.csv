@@ -1,0 +1,107 @@
+location,when,type,value,age,patient_id
+Healthbridge clinic,2019-12-01 13:30:00,height,53,10,0
+Healthbridge clinic,2019-12-01 13:30:00,temperature,101.5,10,0
+Healthbridge clinic,2019-12-01 13:30:00,weight,67,10,0
+Healthbridge clinic,2019-12-01 13:30:00,temperature,-8,10,0
+healthbridge clinic,2019-12-01 13:30:00,heart rate,72,10,0
+healthbridge clinic,2019-06-01 13:30:00,TEMPERATURE,98.9,11,0
+Healthbridge clinic,2019-06-02 13:30:00,height,68,40,3
+Healthbridge clinic,2019-06-03 13:30:00,temperature,98.1,40,3
+Healthbridge clinic,2019-06-04 13:30:00,weight,160,40,3
+Healthbridge clinic,2019-12-06 13:30:00,HEIGHTH,-10,40,3
+healthbridge clinic,2019-06-05 13:30:00,heart rate,84,40,3
+healthbridge clinic,2019-12-06 13:30:00,temperature,100.7,40,3
+healthbridge clinic,2019-02-05 13:30:00,height,64,15,1
+healthbridge clinic,2019-02-05 13:30:00,temperature,102.1,15,1
+healthbridge clinic,2019-08-05 12:00:00,TEMPERATURE,99,15,1
+healthbridge clinic,2019-09-05 12:00:00,TEMPERATURE,98.5,15,1
+Healthbridge clinic,2019-11-07 12:00:00,temperature,101.3,15,1
+Healthbridge clinic,2019-06-02 13:30:00,height,45.5,7,13
+Healthbridge clinic,2019-06-02 13:30:00,TEMPERATURE,97.2,7,13
+Healthbridge clinic,2019-02-14 15:12:00,temperature,100.1,7,13
+Healthbridge clinic,2019-01-01 13:30:00,height,51.5,9,1
+Healthbridge clinic,2019-01-01 13:30:00,temperature,99.1,9,1
+Summit clinic,2019-12-01 13:30:00,height,62,14,2
+summit clinic,2019-12-01 13:30:00,temperature,98.7,10,2
+SUMMIT CLINIC,2019-12-01 13:30:00,weight,67,10,2
+summit clinic,2019-12-01 13:30:00,heart rate,72,10,2
+SUMMIT CLINIC,2019-03-01 13:30:00,temperature,98.2,40,21
+summit clinic,2019-03-01 13:30:00,heart rate,75,40,21
+summit clinic,2019-03-01 13:30:00,HEIGHT,64,40,21
+SUMMIT CLINIC,2019-10-01 13:30:00,temperature,98.7,16,4
+summit clinic,2019-02-05 13:30:00,height,67,16,4
+summit clinic,2019-02-05 13:30:00,temperature,97.9,16,4
+SUMMIT CLINIC,2019-07-01 13:30:00,temperature,98.4,16,4
+summit clinic,2019-02-05 13:30:00,weighT,150,16,4
+summit clinic,2019-03-01 13:30:00,temperature,98.5,16,4
+summit clinic,2019-03-01 13:30:00,heart rate,65,16,4
+SUMMIT CLINIC,2019-12-01 13:30:00,height,71,16,4
+summit clinic,2019-12-02 13:30:00,height,65,32,23
+summit clinic,2019-12-03 13:30:00,TEMperature,98.9,32,23
+summit clinic,2019-03-01 13:30:00,temperature,-2,32,23
+summit clinic,2019-03-01 13:30:00,weight,-2,32,23
+summit clinic,2019-12-03 13:30:00,heighth,48,7,5
+oakdale HEALTH CENTER,2019-12-03 13:30:00,HEIGHT,61,42,7
+oakdale health center,2019-12-03 13:30:00,temperature,101.3,42,7
+oakdale HEALTH CENTER,2019-12-03 13:30:00,weight,123,42,7
+oakdale health center,2019-12-03 13:30:00,heart rate,73,42,7
+oakdale health center,2019-02-03 13:30:00,height,61,41,7
+oakdale health center,2019-02-03 13:30:00,temperature,99.1,41,7
+oakdale health center,2019-02-03 13:30:00,weight,120,41,7
+oakdale health center,2019-02-03 13:30:00,heart rate,72,41,7
+oakdale HEALTH CENTER,2019-11-03 13:30:00,TEMPErature,102.3,42,7
+oakdale health center,2019-01-03 13:30:00,temperature,97,4,6
+oakdale health center,2019-01-03 13:30:00,height,38.5,4,6
+oakdale HEALTH CENTER,2019-01-03 13:30:00,weight,36,4,6
+oakdale health center,2019-05-03 13:30:00,height,39,4,6
+oakdale health center,2019-05-03 13:30:00,WEIGht,36,4,6
+oakdale HEALTH CENTER,2019-01-03 13:30:00,height,65,18,41
+oakdale HEALTH CENTER,2019-10-03 13:30:00,temperature,-5,18,41
+oakdale health center,2019-01-03 13:30:00,weight,130,18,41
+oakdale health center,2019-01-03 13:30:00,temperature,98.7,18,41
+oakdale health center,2019-05-03 13:30:00,temperature,98.5,18,41
+oakdale health center,2019-11-03 13:30:00,TEMPerature,101.7,19,41
+oakdale HEALTH CENTER,2019-01-03 13:30:00,heighth,60,25,8
+oakdale health center,2019-01-03 13:30:00,weight,115.5,25,8
+oakdale health center,2019-01-03 13:30:00,temperature,98.7,25,8
+oakdale HEALTH CENTER,2019-05-03 13:30:00,temperature,99.1,25,8
+oakdale health center,2019-11-03 13:30:00,TEMPERATURE,98.9,25,8
+oakdale health center,2019-12-03 12:30:00,temperature,102.3,25,8
+oakdale health center,2019-04-03 12:30:00,temperature,98.5,25,8
+oakdale health center,2019-04-03 12:30:00,heart rate,79,25,8
+oakdale health center,2019-04-03 12:30:00,height,63,65,18
+oakdale health center,2019-04-03 12:30:00,weight,112,65,18
+oakdale health center,2019-04-03 12:30:00,temperature,98.7,65,18
+oakdale health center,2019-07-03 12:30:00,temperature,98.2,65,18
+oakdale health center,2019-01-03 13:30:00,temperature,99,65,18
+oakdale HEALTH CENTER,2019-01-03 13:30:00,height,62,13,9
+oakdale health center,2019-01-03 13:30:00,weight,125,13,9
+oakdale health center,2019-01-03 13:30:00,temperature,100.7,13,9
+oakdale HEALTH CENTER,2019-07-03 13:30:00,temperature,98.2,13,9
+oakdale health center,2019-10-03 13:30:00,temperature,98.9,14,9
+OAKDALE health center,2019-07-03 13:30:00,heart rate,73,13,9
+OAKDALE health center,2019-12-03 12:30:00,height,66,14,9
+oakdale health center,2019-12-03 12:30:00,temperature,99.9,14,9
+oakdale health center,2019-12-03 12:30:00,weight,142,14,9
+oakdale health center,2019-07-03 13:30:00,height,71,37,11
+oakdale health center,2019-07-03 13:30:00,weight,181,37,11
+oakdale health center,2019-07-03 13:30:00,temperature,98.3,37,11
+OAKDALE Health center,2019-11-03 13:30:00,temperature,101.1,37,11
+oakdale health center,2019-02-03 13:30:00,temperature,99,37,11
+oakdale health center,2019-02-03 13:30:00,height,64,51,17
+oakdale health center,2019-02-03 13:30:00,weight,160,51,17
+oakdale health center,2019-02-03 13:30:00,temperature,98.7,51,17
+oakdale health center,2019-12-03 12:30:00,temperature,102.1,51,17
+OAKDALE Health center,2019-03-03 13:30:00,temperature,98.7,37,11
+oakdale health center,2019-06-03 13:30:00,temperature,98.5,37,11
+oakdale health center,2019-09-03 13:30:00,temperature,99.1,37,11
+oakdale health center,2019-09-03 13:30:00,heart rate,65,37,11
+oakdale health center,2019-09-03 13:30:00,height,63,23,12
+OAKDALE Health center,2019-09-03 13:30:00,temperature,100.2,23,12
+oakdale health center,2019-09-03 13:30:00,weight,125,23,12
+oakdale health center,2019-09-03 13:30:00,HEART RATE,72,23,12
+oakdale health center,2019-03-03 13:30:00,temperature,98.6,23,12
+oakdale health center,2019-02-03 13:30:00,temperature,102.1,23,12
+oakdale health center,2019-02-03 13:30:00,heighth,-10,23,12
+oakdale health center,2019-03-03 13:30:00,temperature,-7,37,11
+OAKDALE Health center,2019-06-03 13:30:00,temperature,-32,51,17

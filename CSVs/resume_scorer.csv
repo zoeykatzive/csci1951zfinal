@@ -1,0 +1,6 @@
+Applicant ID,School Name,GPA,Degree,Location,Gender,Veteran status,Work authorization,Disability,Ethnicity,Role 1,Start 1,End 1,Role 2,Start 2,End 2,Role 3,Start 3,End 3
+1,Providence University,3.81,Bachelors,Providence,M,1,1,0,1,Junior SWE,5/20,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2,Providence State University,3.62,Phd,Boston,F,0,1,0,1,Senior SWE,2/23,N/A,Junior SWE,2/23,5/20,Research Assistant,2/18,5/20
+3,State Providence College,3.45,Bachelors,Los Angeles,N/A,N/A,1,0,0,Data scientist,3/19,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4,Providence School,3.37,Masters,Miami,M,0,0,0,1,Lawyer,7/19,N/A,Teaching Assistant,18-Sep,5/19,N/A,N/A,N/A
+5,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,1,ML Engineer,5/21,6/23,N/A,N/A,N/A,N/A,N/A,N/A
